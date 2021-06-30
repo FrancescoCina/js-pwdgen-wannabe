@@ -20,6 +20,7 @@ console.log("Cognome", surname);
 var preferColor = prompt("Qual è il tuo colore preferito?");
 console.log("Colore", preferColor);
 
-var lastCharacter = ("21")
+var lastCharacter = ("21");
+console.log(lastCharacter);
 
 passwordElement.innerHTML = ("La tua password è: ") + name + surname + preferColor + lastCharacter;
